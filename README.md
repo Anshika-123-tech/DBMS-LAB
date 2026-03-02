@@ -6,7 +6,7 @@ Course: B.Tech CSE (Core) - A
 
 Roll Number: 2401010021
 
-Submitted To: Mansi Kajal
+Submitted To: MANSI KAJAL
 
 Submission Date: 2 March 2026
 
